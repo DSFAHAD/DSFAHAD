@@ -121,6 +121,16 @@ Full-stack inventory management system.
 
 ---
 
+### Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DSFAHAD&bg_color=0D1117&color=8E4585&line=6E3667&point=ffffff&area=true&area_color=6E3667&hide_border=true&custom_title=Fahad's%20Contribution%20Graph" width="95%"/>
+
+</div>
+
+---
+
 ### Let's Connect
 
 <div align="center">
