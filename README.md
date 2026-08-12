@@ -20,15 +20,13 @@
 
 ### About Me
 
-```yaml
-role: Computer Science Undergraduate
-program: DecodeLabs Data Science Industrial Training Kit (Batch 2026)
-focus: [Web Scraping, EDA, Machine Learning, Data Engineering]
-currently_exploring: [Power BI, Apache Airflow, Data Engineering fundamentals]
-looking_for: Data Science / Data Engineering internship
-open_source: smilo — 350+ downloads on PyPI
-location: Lahore, Pakistan
-```
+- 🎓 Computer Science undergraduate, currently enrolled in the **DecodeLabs Data Science Industrial Training Kit (Batch 2026)**
+- 🔍 Building end-to-end **web scraping, EDA, ML, and analytics** projects with real-world datasets
+- 🤖 Learning core ML algorithms (Linear Regression, Random Forest) with scikit-learn
+- ⚙️ Exploring **Power BI**, **Apache Airflow**, and **Data Engineering fundamentals** alongside Data Science
+- 💼 Aiming for a Data Science / Data Engineering internship
+- 📦 Published an **open-source Python library** (`smilo`) on PyPI with 350+ downloads
+- 📍 Based in Lahore, Pakistan
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -36,9 +34,9 @@ location: Lahore, Pakistan
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,pandas,numpy,sklearn,git,mysql,postgres,docker,vscode,anaconda&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,pandas,numpy,sklearn,git,mysql,postgres,vscode&theme=dark" />
 
-<br/><br/>
+<br/>
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0A0A0B?style=for-the-badge&logo=plotly&logoColor=4DD8E8)
 ![Seaborn](https://img.shields.io/badge/Seaborn-161618?style=for-the-badge&logo=python&logoColor=4DD8E8)
@@ -131,14 +129,6 @@ Channel performance analysis using the YouTube Data API v3.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DSFAHAD&bg_color=0A0A0B&color=4DD8E8&line=4DD8E8&point=ffffff&area=true&area_color=4DD8E8&hide_border=true&custom_title=Fahad's%20Contribution%20Graph" width="95%"/>
 </div>
 
-### Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/DSFAHAD/DSFAHAD/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-<sub>⚠️ needs a one-time GitHub Action setup — see note at the bottom</sub>
-</div>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <div align="center">
@@ -156,11 +146,3 @@ Channel performance analysis using the YouTube Data API v3.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0B,50:161618,100:1E8FA0&height=100&section=footer" width="100%"/>
-
-<!--
-NOTE on the Contribution Snake section above:
-This needs a one-time GitHub Action in your DSFAHAD/DSFAHAD repo to actually generate.
-Steps: create .github/workflows/snake.yml in that repo with the "Platane/snk" action,
-it auto-generates the SVG on a schedule. If you don't want to set this up, just delete
-the "Contribution Snake" section above — everything else works without it.
--->
