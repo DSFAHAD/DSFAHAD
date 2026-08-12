@@ -1,44 +1,34 @@
-<!-- Header Banner in Plum & Electric Blue Gradient -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:6b2d5c,100:3b82f6&height=220&section=header&text=Fahad%20Hameed&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20%26%20Data%20Engineer%20%7C%20Data%20Pipelines&descAlignY=58&descSize=17" width="100%" alt="Header Banner" />
 
-  <br/>
+# 🔮 Fahad Hameed
 
-  <!-- Animated Typing Subtitle in Electric Blue -->
-  <a href="https://github.com/DSFAHAD">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Transforming+raw+data+into+actionable+insights;Building+ML+%26+Data+Engineering+pipelines;Creator+of+'smilo'+Python+Library+(350%2B+downloads);Exploring+Apache+Airflow+%26+ETL+workflows" alt="Typing SVG" />
-  </a>
+### Data Scientist &nbsp;|&nbsp; ML & Data Engineer &nbsp;|&nbsp; Data Pipelines
 
-  <br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Transforming+raw+data+into+actionable+insights;Building+ML+%26+Data+Engineering+pipelines;Creator+of+'smilo'+Python+Library+(350%2B+downloads);Exploring+Apache+Airflow+%26+ETL+workflows" alt="Typing SVG" />
 
-  <!-- Quick Links Badges -->
-  <a href="https://dsfahad.github.io/portfolio.fahad/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-1A0B2E?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/fahad-hameed-7501b5333">
-    <img src="https://img.shields.io/badge/LinkedIn-3C096C?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
-  </a>
-  <a href="https://pypi.org/project/smilo/">
-    <img src="https://img.shields.io/badge/PyPI_Package-smilo-5A189A?style=for-the-badge&logo=pypi&logoColor=38BDF8" alt="PyPI" />
-  </a>
-  <a href="mailto:fahad.ds.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" />
-  </a>
+<br/>
+
+<a href="https://dsfahad.github.io/portfolio.fahad/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-1A0B2E?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" />
+</a>
+<a href="https://linkedin.com/in/fahad-hameed-7501b5333">
+  <img src="https://img.shields.io/badge/LinkedIn-3C096C?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
+</a>
+<a href="https://pypi.org/project/smilo/">
+  <img src="https://img.shields.io/badge/PyPI_Package-smilo-5A189A?style=for-the-badge&logo=pypi&logoColor=38BDF8" alt="PyPI" />
+</a>
+<a href="mailto:fahad.ds.contact@gmail.com">
+  <img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" />
+</a>
+
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
 ### ✨ About Me
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=👋+Hi!+I'm+Fahad+Hameed;🔮+Data+Scientist%2C+ML+%26+Data+Engineer;💡+Building+Scalable+Pipelines+%26+Predictive+Models" alt="Montserrat Font Header" />
-</div>
-
-<br/>
-
-> ### 🔮 **Greetings!**
 > I'm **Fahad Hameed**, an aspiring **Data Scientist, ML & Data Engineer** based in Lahore, Pakistan 🇵🇰
 > I specialize in constructing **end-to-end Machine Learning pipelines**, automated **web scrapers**, **ETL workflows**, and translating complex datasets into actionable business intelligence.
 
@@ -98,8 +88,8 @@
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/Python-1A0B2E?style=flat-square&logo=python&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/SQL-3C096C?style=flat-square&logo=mysql&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/HTML5-5A189A?style=flat-square&logo=html5&logoColor=38BDF8" /> |
-| **Data Science & ML** | <img src="https://img.shields.io/badge/Pandas-1A0B2E?style=flat-square&logo=pandas&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/NumPy-3C096C?style=flat-square&logo=numpy&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/scikit--learn-5A189A?style=flat-square&logo=scikit-learn&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/BeautifulSoup-7B2CBF?style=flat-square&logo=python&logoColor=38BDF8" /> |
+| **Languages** | <img src="https://img.shields.io/badge/Python-1A0B2E?style=flat-square&logo=python&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/SQL-3C096C?style=flat-square&logo=mysql&logoColor=38BDF8" /> |
+| **Data Science & ML** | <img src="https://img.shields.io/badge/Pandas-1A0B2E?style=flat-square&logo=pandas&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/NumPy-3C096C?style=flat-square&logo=numpy&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/scikit--learn-5A189A?style=flat-square&logo=scikit-learn&logoColor=38BDF8" /> |
 | **Databases & Pipelines** | <img src="https://img.shields.io/badge/MySQL-1A0B2E?style=flat-square&logo=mysql&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/PostgreSQL-3C096C?style=flat-square&logo=postgresql&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Apache_Airflow-5A189A?style=flat-square&logo=apacheairflow&logoColor=38BDF8" /> |
 | **Visualization & BI** | <img src="https://img.shields.io/badge/Matplotlib-1A0B2E?style=flat-square&logo=python&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Seaborn-3C096C?style=flat-square&logo=python&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Power_BI-5A189A?style=flat-square&logo=powerbi&logoColor=38BDF8" /> |
 | **Developer Tools** | <img src="https://img.shields.io/badge/Git-1A0B2E?style=flat-square&logo=git&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/GitHub-3C096C?style=flat-square&logo=github&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/VS_Code-5A189A?style=flat-square&logo=visualstudiocode&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Jupyter-7B2CBF?style=flat-square&logo=jupyter&logoColor=38BDF8" /> |
@@ -118,7 +108,6 @@
       <h3 align="center">🏠 Zameen.com Real Estate Scraper & Model</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-1A0B2E?style=flat-square&logo=python&logoColor=38BDF8" />
-        <img src="https://img.shields.io/badge/BeautifulSoup-3C096C?style=flat-square&logo=python&logoColor=38BDF8" />
         <img src="https://img.shields.io/badge/Scikit--Learn-5A189A?style=flat-square&logo=scikit-learn&logoColor=38BDF8" />
       </p>
       <p>Automated web scraping pipeline collecting <b>3,725 live listings</b>, coupled with data cleaning & Random Forest price prediction model (R² 0.53).</p>
@@ -202,11 +191,5 @@
   <a href="https://pypi.org/project/smilo/">
     <img src="https://img.shields.io/badge/PyPI-5A189A?style=for-the-badge&logo=pypi&logoColor=38BDF8" />
   </a>
-</div>
 
-<br/>
-
-<!-- Footer Banner in Plum & Electric Blue Gradient -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:6b2d5c,100:3b82f6&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
