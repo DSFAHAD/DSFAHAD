@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0B,50:161618,100:1E8FA0&height=200&section=header&text=Fahad%20Hameed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20Data%20Engineering%20%7C%20Machine%20Learning&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://dsfahad.github.io/portfolio.fahad/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4DD8E8&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+Data+Engineer+in+Training;Turning+raw+data+into+real+insights;Building+ML+pipelines+%26+scraping+projects;Currently+pursuing+MS+in+Germany+goals" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4DD8E8&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+Data+Engineer+in+Training;Turning+raw+data+into+real+insights;Building+ML+pipelines+%26+scraping+projects" alt="Typing SVG" />
 </a>
 
 </div>
@@ -112,10 +112,10 @@ Channel performance analysis using the YouTube Data API v3.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DSFAHAD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0B&title_color=4DD8E8&icon_color=4DD8E8&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DSFAHAD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0B&title_color=4DD8E8&icon_color=4DD8E8&text_color=c9d1d9&cache_seconds=86400"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DSFAHAD&theme=tokyonight&hide_border=true&background=0A0A0B&ring=4DD8E8&fire=4DD8E8&currStreakLabel=4DD8E8"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSFAHAD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0B&title_color=4DD8E8&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSFAHAD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0B&title_color=4DD8E8&text_color=c9d1d9&cache_seconds=86400" width="48%"/>
 
 </div>
 
