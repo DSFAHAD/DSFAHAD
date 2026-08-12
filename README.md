@@ -1,12 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:6D214F,100:C445A0&text=Fahad%20Hameed&fontAlign=50&fontAlignY=38&fontSize=50&fontColor=FFFFFF&desc=Data%20Science%20%7C%20AI%2FML%20%7C%20Python%20%7C%20SQL%20%7C%20Data%20Engineering&descAlign=50&descAlignY=58&descSize=15" alt="Fahad Hameed banner" />
+<img width="90%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,45:6D214F,100:C445A0&text=Fahad%20Hameed&fontAlign=50&fontAlignY=38&fontSize=58&fontColor=FFFFFF&desc=Data%20Science%20%7C%20AI%2FML%20%7C%20Python%20%7C%20SQL%20%7C%20Data%20Engineering&descAlign=50&descAlignY=60&descSize=17" alt="Fahad Hameed banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=C445A0&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;AI+%2F+ML+Enthusiast;Python+%7C+SQL+%7C+Data+Analysis;Building+End-to-End+ML+Pipelines;Exploring+Data+Engineering+and+ETL" alt="Bold typing animation" />
-
-<br><br>
-
-<img width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated developer workspace" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=C445A0&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist;AI+%2F+ML+Enthusiast;Python+%7C+SQL+%7C+Data+Analysis;Building+End-to-End+ML+Pipelines;Exploring+Data+Engineering+and+ETL" alt="Bold typing animation" />
 
 <br><br>
 
@@ -234,12 +230,12 @@ The project explores views, engagement, content length, and relationships betwee
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DSFAHAD&show_icons=true&theme=github_dark&hide_border=true&title_color=C445A0&icon_color=C445A0" alt="Fahad's GitHub stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=DSFAHAD&theme=radical&hide_border=true&ring=C445A0&fire=C445A0&currStreakLabel=C445A0" alt="Fahad's GitHub streak" />
+<img height="170" src="https://github-readme-stats-dsfahad1.vercel.app/api?username=DSFAHAD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C445A0&icon_color=C445A0&text_color=FFFFFF" alt="Fahad's GitHub stats" />
+<img height="170" src="https://streak-stats.demolab.com?user=DSFAHAD&theme=radical&hide_border=true&background=0D1117&ring=C445A0&fire=C445A0&currStreakLabel=C445A0" alt="Fahad's GitHub streak" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSFAHAD&layout=compact&theme=github_dark&hide_border=true&title_color=C445A0" alt="Top languages" />
+<img src="https://github-readme-stats-dsfahad1.vercel.app/api/top-langs/?username=DSFAHAD&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C445A0&text_color=FFFFFF" alt="Top languages" />
 
 <br><br>
 
