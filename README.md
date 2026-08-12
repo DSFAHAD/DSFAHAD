@@ -14,11 +14,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4B2840?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fahad-hameed-7501b5333)
 [![PyPI](https://img.shields.io/badge/PyPI-6E3667?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/smilo/)
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=DSFAHAD&color=6E3667&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/DSFAHAD?color=6E3667&style=flat-square&label=Followers)
+![Repo Stars](https://img.shields.io/github/stars/DSFAHAD?color=6E3667&style=flat-square&label=Repo+Stars&affiliations=OWNER)
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:2D142C,100:6E3667&height=3&width=100%" width="100%"/>
 
-### About Me
+### 🔮 About Me
 
 - Computer Science undergraduate, currently enrolled in the **DecodeLabs Data Science Industrial Training Kit (Batch 2026)**
 - Building end-to-end **EDA, ML, and analytics** projects with real-world datasets
@@ -28,9 +34,23 @@
 - Published an **open-source Python library** on PyPI with 350+ downloads
 - Based in Lahore, Pakistan
 
----
+<br/>
 
-### Tech Stack
+<div align="center">
+
+| Skill Focus | Progress |
+|:---|:---|
+| Python & Data Analysis | ![](https://progress-bar.xyz/90/?width=220&color=6E3667&suffix=%25) |
+| Machine Learning | ![](https://progress-bar.xyz/75/?width=220&color=8E4585&suffix=%25) |
+| SQL & Databases | ![](https://progress-bar.xyz/70/?width=220&color=4B2840&suffix=%25) |
+| Power BI & Dashboards | ![](https://progress-bar.xyz/65/?width=220&color=6E3667&suffix=%25) |
+| Data Engineering Basics | ![](https://progress-bar.xyz/45/?width=220&color=2D142C&suffix=%25) |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:2D142C,100:6E3667&height=3&width=100%" width="100%"/>
+
+### ⚙️ Tech Stack
 
 <div align="center">
 
@@ -48,80 +68,94 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:2D142C,100:6E3667&height=3&width=100%" width="100%"/>
 
-### Featured Projects
+### 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Credit Card Fraud Detection**
+**💳 Credit Card Fraud Detection**
 ML pipeline using Logistic Regression & Random Forest with SMOTE for class imbalance, GridSearchCV tuning, and ROC-AUC evaluation.
-`Python` `scikit-learn` `imbalanced-learn`
+
+![Python](https://img.shields.io/badge/-Python-2D142C?style=flat-square&logo=python&logoColor=white) ![sklearn](https://img.shields.io/badge/-scikit--learn-4B2840?style=flat-square&logo=scikitlearn&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-**Loan Prediction — EDA & Feature Engineering**
+**🏦 Loan Prediction — EDA & Feature Engineering**
 Full data cleaning pipeline: missingness auditing, IQR-based outlier capping, one-hot encoding, and multicollinearity removal. Output: 573 clean rows across 23 features.
-`Python` `Pandas` `EDA`
+
+![Python](https://img.shields.io/badge/-Python-2D142C?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-4B2840?style=flat-square&logo=pandas&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**smilo — Open Source Python Library**
+**📦 smilo — Open Source Python Library**
 Published to PyPI with 350+ downloads.
 [View on PyPI →](https://pypi.org/project/smilo/)
-`Python` `Packaging` `Open Source`
+
+![Python](https://img.shields.io/badge/-Python-2D142C?style=flat-square&logo=python&logoColor=white) ![PyPI](https://img.shields.io/badge/-PyPI-6E3667?style=flat-square&logo=pypi&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-**UK Retail — RFM Customer Segmentation**
+**🛍️ UK Retail — RFM Customer Segmentation**
 Exploratory analysis and RFM segmentation on a 530K+ row retail transactions dataset.
-`Python` `Pandas` `RFM Analysis`
+
+![Python](https://img.shields.io/badge/-Python-2D142C?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-4B2840?style=flat-square&logo=pandas&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**Pakistani YouTube Creator Analysis**
+**📺 Pakistani YouTube Creator Analysis**
 Channel performance analysis using the YouTube Data API v3.
-`Python` `YouTube API` `Data Viz`
+
+![Python](https://img.shields.io/badge/-Python-2D142C?style=flat-square&logo=python&logoColor=white) ![YouTube](https://img.shields.io/badge/-YouTube%20API-4B2840?style=flat-square&logo=youtube&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-**Watch Inventory Web App**
+**⌚ Watch Inventory Web App**
 Full-stack inventory management system.
-`MySQL` `Python`
+
+![MySQL](https://img.shields.io/badge/-MySQL-6E3667?style=flat-square&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/-Python-2D142C?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
 </table>
 
-**[Explore all projects on my Portfolio →](https://dsfahad.github.io/portfolio.fahad/)**
-
----
-
-### GitHub Stats
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DSFAHAD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E4585&icon_color=6E3667&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DSFAHAD&theme=tokyonight&hide_border=true&background=0D1117&ring=8E4585&fire=6E3667&currStreakLabel=8E4585"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSFAHAD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E4585&text_color=c9d1d9" width="48%"/>
+**[🔗 Explore all projects on my Portfolio →](https://dsfahad.github.io/portfolio.fahad/)**
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:2D142C,100:6E3667&height=3&width=100%" width="100%"/>
 
-### Contribution Activity
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-dsfahad1.vercel.app/api?username=DSFAHAD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E4585&icon_color=6E3667&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DSFAHAD&theme=tokyonight&hide_border=true&background=0D1117&ring=8E4585&fire=6E3667&currStreakLabel=8E4585"/>
+
+<img src="https://github-readme-stats-dsfahad1.vercel.app/api/top-langs/?username=DSFAHAD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E4585&text_color=c9d1d9" width="48%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=DSFAHAD&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="90%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:2D142C,100:6E3667&height=3&width=100%" width="100%"/>
+
+### 📈 Contribution Activity
 
 <div align="center">
 
@@ -129,15 +163,19 @@ Full-stack inventory management system.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:2D142C,100:6E3667&height=3&width=100%" width="100%"/>
 
-### Let's Connect
+### 🤝 Let's Connect
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-2D142C?style=flat-square&logo=googlechrome&logoColor=white)](https://dsfahad.github.io/portfolio.fahad/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-4B2840?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fahad-hameed-7501b5333)
 [![PyPI](https://img.shields.io/badge/-PyPI-6E3667?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/smilo/)
+
+<br/>
+
+*"Turning data into decisions, one pipeline at a time."*
 
 </div>
 
