@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,45:1F6FEB,100:58A6FF&text=Fahad%20Hameed&fontAlign=50&fontAlignY=38&fontSize=76&fontColor=FFFFFF&desc=Data%20Science%20%7C%20AI%2FML%20%7C%20Python%20%7C%20SQL%20%7C%20Data%20Engineering&descAlign=50&descAlignY=58&descSize=20" alt="Fahad Hameed banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,45:6D214F,100:C445A0&text=Fahad%20Hameed&fontAlign=50&fontAlignY=38&fontSize=76&fontColor=FFFFFF&desc=Data%20Science%20%7C%20AI%2FML%20%7C%20Python%20%7C%20SQL%20%7C%20Data%20Engineering&descAlign=50&descAlignY=58&descSize=20" alt="Fahad Hameed banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Aspiring+Data+Scientist;AI+%2F+ML+Enthusiast;Python+%7C+SQL+%7C+Data+Analysis;Building+End-to-End+ML+Pipelines;Exploring+Data+Engineering+and+ETL" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=900&color=C445A0&center=true&vCenter=true&width=900&lines=Aspiring+Data+Scientist;AI+%2F+ML+Enthusiast;Python+%7C+SQL+%7C+Data+Analysis;Building+End-to-End+ML+Pipelines;Exploring+Data+Engineering+and+ETL" alt="Bold typing animation" />
 
 <br><br>
 
@@ -11,16 +11,16 @@
 <br><br>
 
 <a href="https://github.com/DSFAHAD">
-  <img src="https://img.shields.io/badge/GitHub-DSFAHAD-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-DSFAHAD-0D1117?style=for-the-badge&logo=github&logoColor=C445A0" alt="GitHub" />
 </a>
 <a href="https://linkedin.com/in/fahad-hameed-7501b5333">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=C445A0" alt="LinkedIn" />
 </a>
 <a href="https://dsfahad.github.io/portfolio.fahad/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=googlechrome&logoColor=C445A0" alt="Portfolio" />
 </a>
 <a href="mailto:fahad.ds.contact@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=C445A0" alt="Email" />
 </a>
 
 </div>
@@ -201,7 +201,7 @@ The project explores views, engagement, content length, and relationships betwee
 <br><br>
 
 <a href="https://github.com/DSFAHAD/YouTube-creator-analysis">
-  <img src="https://img.shields.io/badge/View_Project-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="View YouTube Analysis Project" />
+  <img src="https://img.shields.io/badge/View_Project-0D1117?style=for-the-badge&logo=github&logoColor=C445A0" alt="View YouTube Analysis Project" />
 </a>
 
 </div>
@@ -234,12 +234,16 @@ The project explores views, engagement, content length, and relationships betwee
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DSFAHAD&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="Fahad's GitHub stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=DSFAHAD&theme=github-dark-blue&hide_border=true" alt="Fahad's GitHub streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DSFAHAD&show_icons=true&theme=github_dark&hide_border=true&title_color=C445A0&icon_color=C445A0" alt="Fahad's GitHub stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=DSFAHAD&theme=radical&hide_border=true&ring=C445A0&fire=C445A0&currStreakLabel=C445A0" alt="Fahad's GitHub streak" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSFAHAD&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSFAHAD&layout=compact&theme=github_dark&hide_border=true&title_color=C445A0" alt="Top languages" />
+
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DSFAHAD&theme=github-dark&hide_border=true&bg_color=0D1117&color=C445A0&line=C445A0&point=FFFFFF&area=true&area_color=6D214F" alt="GitHub activity wave graph" />
 
 </div>
 
@@ -254,14 +258,14 @@ I am open to internship opportunities, collaboration on data projects, and learn
 <br><br>
 
 <a href="mailto:fahad.ds.contact@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email me" />
+  <img src="https://img.shields.io/badge/Email_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=C445A0" alt="Email me" />
 </a>
 <a href="https://linkedin.com/in/fahad-hameed-7501b5333">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=C445A0" alt="LinkedIn" />
 </a>
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:58A6FF,100:0D1117" alt="Footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:C445A0,100:0D1117" alt="Footer wave" />
 
 </div>
