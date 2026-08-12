@@ -1,80 +1,64 @@
 <div align="center">
 
-# 👋 Hi, I'm Fahad
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,45:1F6FEB,100:58A6FF&text=Fahad%20Hameed&fontAlign=50&fontAlignY=38&fontSize=76&fontColor=FFFFFF&desc=Data%20Science%20%7C%20AI%2FML%20%7C%20Python%20%7C%20SQL%20%7C%20Data%20Engineering&descAlign=50&descAlignY=58&descSize=20" alt="Fahad Hameed banner" />
 
-### Data Science • AI/ML • Python • SQL • Data Engineering
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Aspiring+Data+Scientist;AI+%2F+ML+Enthusiast;Python+%7C+SQL+%7C+Data+Analysis;Building+End-to-End+ML+Pipelines;Exploring+Data+Engineering+and+ETL" alt="Typing animation" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;AI+%2F+ML+Enthusiast;Python+%7C+SQL+%7C+Data+Analysis;Building+End-to-End+ML+Pipelines" alt="Typing SVG" />
+<br><br>
 
-<p>
-<a href="https://github.com/DSFAHAD"><img src="https://img.shields.io/badge/GitHub-DSFAHAD-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" /></a>
-<a href="https://linkedin.com/in/fahad-hameed-7501b5333"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
-<a href="https://dsfahad.github.io/portfolio.fahad/"><img src="https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" /></a>
-<a href="mailto:fahad.ds.contact@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" /></a>
-</p>
+<img width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated developer workspace" />
+
+<br><br>
+
+<a href="https://github.com/DSFAHAD">
+  <img src="https://img.shields.io/badge/GitHub-DSFAHAD-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub" />
+</a>
+<a href="https://linkedin.com/in/fahad-hameed-7501b5333">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
+</a>
+<a href="https://dsfahad.github.io/portfolio.fahad/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Portfolio" />
+</a>
+<a href="mailto:fahad.ds.contact@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" />
+</a>
 
 </div>
 
-<br/>
+---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-I build **end-to-end machine learning pipelines**, **automated web scrapers**, and **exploratory data analyses**, turning messy real-world datasets into clean, usable insights. My core stack is Python and SQL, with a growing focus on data engineering — pipeline automation and workflow orchestration.
+I build **end-to-end machine learning pipelines**, **automated web scrapers**, and **exploratory data analyses** that turn messy real-world datasets into clean, useful insights.
 
-- 🎓 CS undergraduate — completing the DecodeLabs Data Science Industrial Training Kit (Batch 2026)
-- 📦 Published two open-source Python packages on PyPI: [`smilo`](https://pypi.org/project/smilo/) and [`facrawlio`](https://pypi.org/project/facrawlio/)
-- ⚙️ Deepening skills in ETL pipelines, Apache Airflow, and production-style web scraping
-- 🎯 Actively seeking a **Data Science / Data Engineering internship**
+My core stack is **Python and SQL**, with a growing focus on **data engineering**, **ETL pipelines**, **workflow automation**, and **production-style data workflows**.
 
-<br/>
+- 🎓 Computer Science undergraduate
+- 📊 Focused on Data Science, Machine Learning, and Data Engineering
+- 🐍 Python developer with hands-on data science experience
+- 📦 Published open-source Python packages on PyPI
+- ⚙️ Learning ETL pipelines and Apache Airflow
+- 🌐 Interested in automated web scraping and data collection
+- 🎯 Currently seeking a **Data Science / Data Engineering internship**
+
+---
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr><td><b>Languages</b></td><td>
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=58A6FF)
+| Area | Tools & Technologies |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,cpp" alt="Python and C++" /> <br> `SQL` |
+| **Data Science** | <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" alt="NumPy, Pandas, Scikit-learn" /> |
+| **Machine Learning** | `Scikit-learn` `Regression` `Classification` `Clustering` `Feature Engineering` `SMOTE` |
+| **Databases & Pipelines** | <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" alt="MySQL, SQLite, PostgreSQL" /> <br> `ETL` `Data Pipelines` `Apache Airflow` |
+| **Visualization / BI** | `Matplotlib` `Seaborn` `Power BI` `Exploratory Data Analysis` |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Git, GitHub, VS Code, Linux" /> |
 
-</td></tr>
-<tr><td><b>Data Science</b></td><td>
+</div>
 
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=58A6FF)
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=58A6FF)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF)
-![Seaborn](https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF)
-
-</td></tr>
-<tr><td><b>Machine Learning</b></td><td>
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=58A6FF)
-![imbalanced-learn](https://img.shields.io/badge/SMOTE-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF)
-
-</td></tr>
-<tr><td><b>Databases &amp; Pipelines</b></td><td>
-
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=58A6FF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF)
-![Airflow](https://img.shields.io/badge/Apache_Airflow-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=58A6FF)
-
-</td></tr>
-<tr><td><b>Visualization / BI</b></td><td>
-
-![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=58A6FF)
-
-</td></tr>
-<tr><td><b>Tools</b></td><td>
-
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=58A6FF)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)
-![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=58A6FF)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=58A6FF)
-![PyPI](https://img.shields.io/badge/PyPI-0D1117?style=for-the-badge&logo=pypi&logoColor=58A6FF)
-
-</td></tr>
-</table>
-
-<br/>
+---
 
 ## 🚀 Featured Projects
 
@@ -83,25 +67,39 @@ I build **end-to-end machine learning pipelines**, **automated web scrapers**, a
 <td width="50%" valign="top">
 
 ### 🏠 Zameen Real Estate Price Prediction
-End-to-end pipeline scraping live property listings from Zameen.com (Pakistan's largest real estate portal), then cleaning, analyzing, and modeling the data to predict house prices in Lahore.
 
-**Tech:** Python • Web Scraping • Scikit-learn
+End-to-end machine learning pipeline using property listings collected from Zameen.com.
 
-**Highlights:** Data collection, data cleaning, feature engineering, regression modeling
+The project covers data collection, cleaning, exploratory analysis, feature engineering, and regression modeling for house-price prediction in Lahore.
 
-[View Project →](https://github.com/DSFAHAD/zameen-real-estate-price-prediction)
+**Tech:** `Python` `Web Scraping` `Pandas` `Scikit-learn`
+
+**Highlights**
+- Data collection and cleaning
+- Feature engineering
+- Regression modeling
+- Model evaluation
+
+<a href="https://github.com/DSFAHAD/zameen-real-estate-price-prediction">View Project →</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 💳 Credit Card Fraud Detection Pipeline
-ML pipeline for detecting fraudulent transactions — preprocessing, class-imbalance handling with SMOTE, model training, and evaluation via classification metrics.
+### 💳 Credit Card Fraud Detection
 
-**Tech:** Python • Scikit-learn • SMOTE
+Machine learning pipeline for detecting fraudulent credit-card transactions in a highly imbalanced dataset.
 
-**Highlights:** Class imbalance handling, model evaluation, result visualization
+The project includes preprocessing, SMOTE-based class balancing, model training, and classification evaluation.
 
-[View Project →](https://github.com/DSFAHAD/decodelabs-2-fraud-detection-pipeline)
+**Tech:** `Python` `Scikit-learn` `SMOTE` `Pandas`
+
+**Highlights**
+- Imbalanced dataset handling
+- SMOTE balancing
+- Model training
+- Classification metrics
+
+<a href="https://github.com/DSFAHAD/decodelabs-2-fraud-detection-pipeline">View Project →</a>
 
 </td>
 </tr>
@@ -109,68 +107,108 @@ ML pipeline for detecting fraudulent transactions — preprocessing, class-imbal
 <td width="50%" valign="top">
 
 ### 🛍️ Customer Intelligence Platform
-End-to-end customer analytics on the UCI Online Retail dataset — combines RFM analysis, PCA-based dimensionality reduction, clustering, and predictive modeling.
 
-**Tech:** Python • Pandas • Scikit-learn • RFM • PCA
+End-to-end customer analytics project using the UCI Online Retail dataset.
 
-**Highlights:** Feature engineering, clustering, churn prediction
+Combines RFM analysis, PCA-based dimensionality reduction, clustering, and predictive modeling.
 
-[View Project →](https://github.com/DSFAHAD/customer-intelligence-ML)
+**Tech:** `Python` `Pandas` `Scikit-learn` `RFM` `PCA`
+
+**Highlights**
+- Customer segmentation
+- RFM analysis
+- PCA and clustering
+- Churn prediction
+
+<a href="https://github.com/DSFAHAD/customer-intelligence-ML">View Project →</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Loan Prediction: EDA & Feature Engineering
-Transforms a raw, messy loan-applications dataset (614 applications, mixed numeric/categorical features, real missing values) into a clean dataset ready for machine learning.
+### 📊 Loan Prediction EDA & Feature Engineering
 
-**Tech:** Python • Pandas • Feature Engineering
+Data analysis project focused on transforming a raw loan-application dataset into a clean, machine-learning-ready dataset.
 
-**Highlights:** Missing-value handling, EDA, feature preparation
+**Tech:** `Python` `Pandas` `EDA` `Feature Engineering`
 
-[View Project →](https://github.com/DSFAHAD/decodelab-1-Loan_prediction_EDA)
+**Highlights**
+- Missing-value handling
+- Exploratory data analysis
+- Categorical processing
+- Feature preparation
+
+<a href="https://github.com/DSFAHAD/decodelab-1-Loan_prediction_EDA">View Project →</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📦 facrawlio — published on PyPI
-A one-function web scraping library that pulls page data and saves it directly to CSV or JSON.
+### 📦 Facrawlio
 
-**Tech:** Python • Web Scraping • Open Source Package
+A lightweight Python web-scraping library that retrieves page data and exports it directly to CSV or JSON.
 
-**Highlights:** Published package, simple public API, CSV/JSON export
+**Tech:** `Python` `Web Scraping` `PyPI`
 
-[View Project →](https://github.com/DSFAHAD/facrawlio) · [PyPI →](https://pypi.org/project/facrawlio/)
+**Highlights**
+- Simple API
+- CSV and JSON export
+- Published on PyPI
+
+<a href="https://github.com/DSFAHAD/facrawlio">GitHub →</a>
+&nbsp; • &nbsp;
+<a href="https://pypi.org/project/facrawlio/">PyPI →</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧰 Smilo — published on PyPI
-Beginner-friendly Python library for data cleaning, dataset splitting, quick statistics, and visualization — built for lightweight data science workflows.
+### 🧰 Smilo
 
-**Tech:** Python • Open Source Package
+Beginner-friendly Python library for lightweight data-science workflows.
 
-**Highlights:** Data cleaning utilities, train/test split, quick-stats helpers
+Provides utilities for data cleaning, statistics, dataset splitting, and visualization.
 
-[View Project →](https://github.com/DSFAHAD/Smilo-the-Python-Libraray) · [PyPI →](https://pypi.org/project/smilo/)
+**Tech:** `Python` `Data Science` `PyPI`
+
+**Highlights**
+- Data cleaning
+- Statistics
+- Train/test split
+- Visualization
+
+<a href="https://github.com/DSFAHAD/Smilo-the-Python-Libraray">GitHub →</a>
+&nbsp; • &nbsp;
+<a href="https://pypi.org/project/smilo/">PyPI →</a>
 
 </td>
 </tr>
 </table>
 
+---
+
+## 📺 YouTube Creator Performance Analysis
+
 <div align="center">
 
-### 📺 [YouTube Creator Performance Analysis](https://github.com/DSFAHAD/YouTube-creator-analysis)
-EDA of Pakistani tech &amp; education YouTube channels using the YouTube Data API v3 — views, engagement, content length, and a small regression model testing how predictable view counts are.
+EDA and analysis of Pakistani technology and education YouTube channels using the **YouTube Data API v3**.
 
-`Python` · `YouTube API` · `Regression`
+The project explores views, engagement, content length, and relationships between video characteristics and performance.
+
+<br>
+
+`Python` • `YouTube API` • `Pandas` • `Regression`
+
+<br><br>
+
+<a href="https://github.com/DSFAHAD/YouTube-creator-analysis">
+  <img src="https://img.shields.io/badge/View_Project-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="View YouTube Analysis Project" />
+</a>
 
 </div>
 
-<br/>
+---
 
-## 📊 Data Science Workflow
+## 🔄 Data Science Workflow
 
 ```text
 📥 Data Collection
@@ -185,52 +223,45 @@ EDA of Pakistani tech &amp; education YouTube channels using the YouTube Data AP
         ↓
 🤖 Model Development
         ↓
-📏 Evaluation
+📏 Model Evaluation
         ↓
 🚀 Deployment / Insights
 ```
 
-<br/>
+---
 
-## 📈 GitHub Stats
+## 📈 GitHub Analytics
 
-<p align="center">
-<img src="https://github-readme-stats-cxmu4yrwb-dsfahad1.vercel.app/api?username=DSFAHAD&show_icons=true&hide_border=true&theme=dark" height="170"/>
-<img src="https://github-readme-stats-cxmu4yrwb-dsfahad1.vercel.app/api/top-langs/?username=DSFAHAD&layout=compact&hide_border=true&theme=dark" height="170"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=DSFAHAD&hide_border=true&theme=dark" height="170"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DSFAHAD&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="Fahad's GitHub stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=DSFAHAD&theme=github-dark-blue&hide_border=true" alt="Fahad's GitHub streak" />
 
-<br/>
+<br><br>
 
-## 🐍 Contribution Snake
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSFAHAD&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF" alt="Top languages" />
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/DSFAHAD/DSFAHAD/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-</p>
+</div>
 
-> Generated by a GitHub Actions workflow — see setup note below.
+---
 
-<br/>
+## 🤝 Let's Connect
 
-## 🌱 Currently Learning
+<div align="center">
 
-Machine Learning &amp; Data Engineering — building automated ETL pipelines, learning Apache Airflow for workflow orchestration, and continuing hands-on web scraping and EDA projects.
+I am open to internship opportunities, collaboration on data projects, and learning-focused open-source work.
 
-## 🎯 Goals
+<br><br>
 
-Growing into a data-engineering-focused data scientist through practical, end-to-end projects, and landing a Data Science / Data Engineering internship.
+<a href="mailto:fahad.ds.contact@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email me" />
+</a>
+<a href="https://linkedin.com/in/fahad-hameed-7501b5333">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
+</a>
 
-<br/>
+<br><br>
 
-## 🤝 Connect With Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:58A6FF,100:0D1117" alt="Footer wave" />
 
-<p align="center">
-<a href="https://linkedin.com/in/fahad-hameed-7501b5333"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
-<a href="https://dsfahad.github.io/portfolio.fahad/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" /></a>
-<a href="https://pypi.org/project/smilo/"><img src="https://img.shields.io/badge/PyPI_smilo-0D1117?style=for-the-badge&logo=pypi&logoColor=58A6FF" /></a>
-<a href="https://pypi.org/project/facrawlio/"><img src="https://img.shields.io/badge/PyPI_facrawlio-0D1117?style=for-the-badge&logo=pypi&logoColor=58A6FF" /></a>
-<a href="mailto:fahad.ds.contact@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" /></a>
-</p>
+</div>
