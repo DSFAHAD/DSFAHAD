@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,45:6D214F,100:C445A0&text=Fahad%20Hameed&fontAlign=50&fontAlignY=38&fontSize=76&fontColor=FFFFFF&desc=Data%20Science%20%7C%20AI%2FML%20%7C%20Python%20%7C%20SQL%20%7C%20Data%20Engineering&descAlign=50&descAlignY=58&descSize=20" alt="Fahad Hameed banner" />
+<img width="180%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,45:6D214F,100:C445A0&text=Fahad%20Hameed&fontAlign=50&fontAlignY=38&fontSize=76&fontColor=FFFFFF&desc=Data%20Science%20%7C%20AI%2FML%20%7C%20Python%20%7C%20SQL%20%7C%20Data%20Engineering&descAlign=50&descAlignY=58&descSize=20" alt="Fahad Hameed banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=900&color=C445A0&center=true&vCenter=true&width=900&lines=Aspiring+Data+Scientist;AI+%2F+ML+Enthusiast;Python+%7C+SQL+%7C+Data+Analysis;Building+End-to-End+ML+Pipelines;Exploring+Data+Engineering+and+ETL" alt="Bold typing animation" />
 
