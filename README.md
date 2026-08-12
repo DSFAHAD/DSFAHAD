@@ -1,23 +1,26 @@
 <div align="center">
 
-<img width="90%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,45:6D214F,100:C445A0&text=Fahad%20Hameed&fontAlign=50&fontAlignY=38&fontSize=58&fontColor=FFFFFF&desc=Data%20Science%20%7C%20AI%2FML%20%7C%20Python%20%7C%20SQL%20%7C%20Data%20Engineering&descAlign=50&descAlignY=60&descSize=17" alt="Fahad Hameed banner" />
+<img width="90%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,45:6D214F,100:C445A0&text=Fahad%20Hameed&fontAlign=50&fontAlignY=38&fontSize=58&fontColor=FFFFFF&desc=Data%20Science%20%7C%20AI%2FML%20%7C%20Python%20%7C%20SQL%20%7C%20Data%20Engineering&descAlign=50&descAlignY=60&descSize=17" alt="Fahad Hameed | Data Science | AI/ML | Python | SQL | Data Engineering" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=C445A0&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist;AI+%2F+ML+Enthusiast;Python+%7C+SQL+%7C+Data+Analysis;Building+End-to-End+ML+Pipelines;Exploring+Data+Engineering+and+ETL" alt="Bold typing animation" />
+<h1>Hi, I'm Fahad Hameed</h1>
+
+<h3>Data Science | AI/ML | Python | SQL | Data Engineering</h3>
+
+<p>
+  <b>Aspiring Data Scientist</b> focused on building practical machine learning pipelines,
+  clean data workflows, and useful analytics projects.
+</p>
+
+<p>
+  <b>Aspiring Data Scientist</b> | <b>AI/ML Enthusiast</b> | <b>Python + SQL</b>
+</p>
 
 <br><br>
 
-<a href="https://github.com/DSFAHAD">
-  <img src="https://img.shields.io/badge/GitHub-DSFAHAD-0D1117?style=for-the-badge&logo=github&logoColor=C445A0" alt="GitHub" />
-</a>
-<a href="https://linkedin.com/in/fahad-hameed-7501b5333">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=C445A0" alt="LinkedIn" />
-</a>
-<a href="https://dsfahad.github.io/portfolio.fahad/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=googlechrome&logoColor=C445A0" alt="Portfolio" />
-</a>
-<a href="mailto:fahad.ds.contact@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=C445A0" alt="Email" />
-</a>
+[GitHub](https://github.com/DSFAHAD) |
+[LinkedIn](https://linkedin.com/in/fahad-hameed-7501b5333) |
+[Portfolio](https://dsfahad.github.io/portfolio.fahad/) |
+[Email](mailto:fahad.ds.contact@gmail.com)
 
 </div>
 
@@ -45,12 +48,12 @@ My core stack is **Python and SQL**, with a growing focus on **data engineering*
 
 | Area | Tools & Technologies |
 |---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,cpp" alt="Python and C++" /> <br> `SQL` |
-| **Data Science** | <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" alt="NumPy, Pandas, Scikit-learn" /> |
+| **Languages** | `Python` `SQL` `C++` |
+| **Data Science** | `NumPy` `Pandas` `Scikit-learn` |
 | **Machine Learning** | `Scikit-learn` `Regression` `Classification` `Clustering` `Feature Engineering` `SMOTE` |
-| **Databases & Pipelines** | <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" alt="MySQL, SQLite, PostgreSQL" /> <br> `ETL` `Data Pipelines` `Apache Airflow` |
+| **Databases & Pipelines** | `MySQL` `SQLite` `PostgreSQL` `ETL` `Data Pipelines` `Apache Airflow` |
 | **Visualization / BI** | `Matplotlib` `Seaborn` `Power BI` `Exploratory Data Analysis` |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Git, GitHub, VS Code, Linux" /> |
+| **Tools** | `Git` `GitHub` `VS Code` `Linux` |
 
 </div>
 
@@ -196,9 +199,7 @@ The project explores views, engagement, content length, and relationships betwee
 
 <br><br>
 
-<a href="https://github.com/DSFAHAD/YouTube-creator-analysis">
-  <img src="https://img.shields.io/badge/View_Project-0D1117?style=for-the-badge&logo=github&logoColor=C445A0" alt="View YouTube Analysis Project" />
-</a>
+[View Project →](https://github.com/DSFAHAD/YouTube-creator-analysis)
 
 </div>
 
@@ -230,16 +231,38 @@ The project explores views, engagement, content length, and relationships betwee
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-dsfahad1.vercel.app/api?username=DSFAHAD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C445A0&icon_color=C445A0&text_color=FFFFFF" alt="Fahad's GitHub stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=DSFAHAD&theme=radical&hide_border=true&background=0D1117&ring=C445A0&fire=C445A0&currStreakLabel=C445A0" alt="Fahad's GitHub streak" />
+### Digital Snapshot
 
-<br><br>
+| Metric | Value |
+|---|---:|
+| Featured ML / Data Projects | **06** |
+| Published PyPI Packages | **02** |
+| Core Languages | **03** |
+| Main Focus Areas | **05** |
+| Current Learning Track | **ETL + Airflow** |
 
-<img src="https://github-readme-stats-dsfahad1.vercel.app/api/top-langs/?username=DSFAHAD&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C445A0&text_color=FFFFFF" alt="Top languages" />
+```text
++-------------------------------+
+|  PUBLIC BUILD MODE      ON    |
+|  ML PROJECTS            06    |
+|  PYPI PACKAGES          02    |
+|  CORE STACK             03    |
+|  DATA WORKFLOWS         ETL   |
+|  STREAK                 UPDATE|
++-------------------------------+
+```
 
-<br><br>
+### Language Focus
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DSFAHAD&theme=github-dark&hide_border=true&bg_color=0D1117&color=C445A0&line=C445A0&point=FFFFFF&area=true&area_color=6D214F" alt="GitHub activity wave graph" />
+| Language / Tool | Usage |
+|---|---|
+| Python | 90% |
+| SQL | 80% |
+| Pandas / NumPy | 80% |
+| Scikit-learn | 70% |
+| Data Engineering | 60% |
+
+<sub>Image-free section: this will display reliably even when third-party GitHub stats cards fail.</sub>
 
 </div>
 
@@ -253,15 +276,11 @@ I am open to internship opportunities, collaboration on data projects, and learn
 
 <br><br>
 
-<a href="mailto:fahad.ds.contact@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=C445A0" alt="Email me" />
-</a>
-<a href="https://linkedin.com/in/fahad-hameed-7501b5333">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=C445A0" alt="LinkedIn" />
-</a>
+[Email Me](mailto:fahad.ds.contact@gmail.com) |
+[Connect on LinkedIn](https://linkedin.com/in/fahad-hameed-7501b5333)
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:C445A0,100:0D1117" alt="Footer wave" />
+<b>Thanks for visiting my profile.</b>
 
 </div>
