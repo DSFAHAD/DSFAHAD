@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Aspiring+Data+Scientist+%F0%9F%94%AE;Machine+Learning+Engineer+%F0%9F%A4%96;Turning+raw+data+into+real+insights+%F0%9F%93%8A;Building+ML+pipelines+%26+EDA+projects+%E2%9A%99%EF%B8%8F;Open+for+Data+Science+%26+ML+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
-
 </div>
 
 <div align="center">
@@ -31,8 +27,6 @@
 
 <h3 align="center">🔮 About Me</h3>
 
-<img align="right" src="https://raw.githubusercontent.com/DSFAHAD/DSFAHAD/main/assets/coding.gif" width="280" onerror="this.style.display='none'"/>
-
 - 🎓 Computer Science undergraduate, currently enrolled in the **DecodeLabs Data Science Industrial Training Kit (Batch 2026)**
 - 📈 Building end-to-end **EDA, ML, and analytics** projects with real-world datasets
 - 🤖 Learning core ML algorithms (Linear Regression, Ridge Regression, Random Forest) with scikit-learn
@@ -41,8 +35,6 @@
 - 📦 Published an **open-source Python library** on PyPI with 350+ downloads
 - 📍 Based in Lahore, Pakistan
 - ⚡ Fun fact: I debug SQL by staring at it very intensely until it works
-
-<br clear="right"/>
 
 <div align="center">
 
