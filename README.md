@@ -22,12 +22,13 @@
 
 <h3 align="center">🔮 ABOUT</h3>
 
-- 🎓 CS undergraduate, enrolled in the **DecodeLabs Data Science Industrial Training Kit (Batch 2026)**
-- 📈 Building end-to-end **EDA, ML, and analytics** projects on real-world datasets
-- 🤖 Learning Linear Regression, Ridge, Random Forest with scikit-learn
-- 📊 Exploring **Power BI** and **Data Engineering fundamentals**
-- 📦 Published open-source Python libraries on PyPI (**350+ downloads**)
-- 📍 Lahore, Pakistan · 🎯 Targeting DS / ML internships
+- 🎓 BS Computer Science undergraduate, enrolled in the **DecodeLabs Data Science Industrial Training Kit (Batch 2026)**
+- 📈 Building end-to-end **EDA, ML, and data engineering** projects on real-world datasets
+- 🛠️ Writing **ETL pipelines** and **web scrapers**, and modelling data with **PostgreSQL**
+- 🤖 Working with scikit-learn: Linear Regression, Random Forest, K-Means, PCA
+- 📦 Published **2 open-source Python libraries on PyPI** (**smilo** with **350+ downloads**, and **facrawlio**)
+- 🔬 Supported a pediatric anesthesia research study with statistical analysis in Python
+- 📍 Lahore, Pakistan · 🎯 Targeting Data Science / Data Engineering / ML internships
 - ⚡ Fun fact: I debug SQL by staring at it very intensely until it works
 
 <div align="center">
@@ -58,12 +59,14 @@
 ![Pandas](https://img.shields.io/badge/Pandas-0B3B52?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-0E4F66?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1B7F9E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-020B14?style=for-the-badge&logo=plotly&logoColor=7FE9FF)
+![SciPy](https://img.shields.io/badge/SciPy-020B14?style=for-the-badge&logo=scipy&logoColor=7FE9FF)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0B3B52?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0E4F66?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1B7F9E?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0E4F66?style=for-the-badge&logo=mysql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-020B14?style=for-the-badge&logo=streamlit&logoColor=7FE9FF)
 ![Power BI](https://img.shields.io/badge/Power%20BI-38BDF8?style=for-the-badge&logo=powerbi&logoColor=020B14)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-020B14?style=for-the-badge&logo=githubactions&logoColor=7FE9FF)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0B3B52?style=for-the-badge&logo=githubactions&logoColor=white)
+![PyPI](https://img.shields.io/badge/PyPI-1B7F9E?style=for-the-badge&logo=pypi&logoColor=white)
 
 </div>
 
@@ -75,54 +78,54 @@
 <tr>
 <td width="50%" valign="top">
 
-### 💳 Credit Card Fraud Detection
-Logistic Regression & Random Forest with SMOTE, GridSearchCV tuning, ROC-AUC evaluation.
+### 💼 Rozee.pk Job Market Pipeline
+End-to-end pipeline that scrapes, cleans, validates and stores Pakistan's tech job postings in PostgreSQL, with a deployed Streamlit dashboard and CI checks. [Live dashboard →](https://rozee-job-market-pipeline.streamlit.app/) · [Repo →](https://github.com/DSFAHAD/rozee-job-market-pipeline)
 
-![Python](https://img.shields.io/badge/-Python-020B14?style=flat-square&logo=python&logoColor=7FE9FF) ![sklearn](https://img.shields.io/badge/-scikit--learn-0B3B52?style=flat-square&logo=scikitlearn&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏦 Loan Prediction: EDA & Features
-Missingness audit, IQR outlier capping, one-hot encoding, multicollinearity removal. 573 clean rows, 23 features.
-
-![Python](https://img.shields.io/badge/-Python-020B14?style=flat-square&logo=python&logoColor=7FE9FF) ![Pandas](https://img.shields.io/badge/-Pandas-0B3B52?style=flat-square&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-020B14?style=flat-square&logo=python&logoColor=7FE9FF) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0E4F66?style=flat-square&logo=postgresql&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-0B3B52?style=flat-square&logo=streamlit&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🛒 E-Commerce Data Pipeline
-PostgreSQL raw→staging→analytics, star schema, window functions, tests, CI/CD with GitHub Actions.
+PostgreSQL raw → staging → analytics layers, fact and dimension modelling, data quality tests, CI/CD with GitHub Actions. [Repo →](https://github.com/DSFAHAD/ecommerce-pipeline)
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0E4F66?style=flat-square&logo=postgresql&logoColor=white) ![CI/CD](https://img.shields.io/badge/-GitHub%20Actions-1B7F9E?style=flat-square&logo=githubactions&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📦 smilo: Open Source Library
-Published on PyPI, 350+ downloads. [View on PyPI →](https://pypi.org/project/smilo/)
+Beginner-friendly package for data cleaning, splitting, statistics and quick plots. Published on PyPI, 350+ downloads. [PyPI →](https://pypi.org/project/smilo/) · [Repo →](https://github.com/DSFAHAD/Smilo-the-Python-Libraray)
 
-![PyPI](https://img.shields.io/badge/-PyPI-38BDF8?style=flat-square&logo=pypi&logoColor=020B14)
+![PyPI](https://img.shields.io/badge/-PyPI-38BDF8?style=flat-square&logo=pypi&logoColor=020B14) ![pytest](https://img.shields.io/badge/-pytest-0B3B52?style=flat-square&logo=pytest&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🕸️ facrawlio: Web Scraping Library
+One-function scraping that saves any page's data to CSV or JSON. Published on PyPI. [PyPI →](https://pypi.org/project/facrawlio/) · [Repo →](https://github.com/DSFAHAD/facrawlio)
+
+![PyPI](https://img.shields.io/badge/-PyPI-38BDF8?style=flat-square&logo=pypi&logoColor=020B14) ![Python](https://img.shields.io/badge/-Python-020B14?style=flat-square&logo=python&logoColor=7FE9FF)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛍️ UK Retail: RFM Segmentation
-EDA and RFM segmentation on 530K+ retail transactions.
+### 🏠 Zameen.com Scraper & Price Model
+Scraped 3,725 property listings with BeautifulSoup, then trained a Random Forest price model (R² 0.53). [Repo →](https://github.com/DSFAHAD/zameen-real-estate-price-prediction)
 
-![Pandas](https://img.shields.io/badge/-Pandas-0B3B52?style=flat-square&logo=pandas&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-0E4F66?style=flat-square&logo=python&logoColor=white) ![sklearn](https://img.shields.io/badge/-scikit--learn-0B3B52?style=flat-square&logo=scikitlearn&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 📺 Pakistani YouTube Creator Analysis
-Channel performance analysis with the YouTube Data API v3.
+### 🧩 Customer Intelligence Platform
+RFM analysis, PCA, K-Means segmentation, churn and spend prediction on 397,884 retail transactions (spend model R² 0.919). [Repo →](https://github.com/DSFAHAD/customer-intelligence-ML)
 
-![YouTube](https://img.shields.io/badge/-YouTube%20API-0E4F66?style=flat-square&logo=youtube&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-020B14?style=flat-square&logo=python&logoColor=7FE9FF) ![sklearn](https://img.shields.io/badge/-scikit--learn-0B3B52?style=flat-square&logo=scikitlearn&logoColor=white)
 
 </td>
 </tr>
@@ -130,7 +133,7 @@ Channel performance analysis with the YouTube Data API v3.
 
 <div align="center">
 
-**[🔗 Explore all projects →](https://dsfahad.github.io/portfolio.fahad/)**
+**[🔗 Explore all projects →](https://dsfahad.github.io/portfolio.fahad/)** · **[📂 More on GitHub →](https://github.com/DSFAHAD?tab=repositories)**
 
 </div>
 
